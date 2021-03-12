@@ -5,11 +5,12 @@ source_metadata:
   title: སུམ་རྟགས་འགྲེལ་ཆེན
   author: ''
   volumes:
-    b728d5c18cab4bef808a3e686809fb7b:
+    ba54e08afd9e44e1816323bb7084f496:
       image_group_id: I1PD338
-      title: ''
+      title: Volume 1 of sum rtags 'grel chen
       volume_number: 1
       total_pages: 310
+      base_file: v001.txt
 ebook_metadata:
   title: སུམ་རྟགས་འགྲེལ་ཆེན
   author: ''
